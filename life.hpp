@@ -9,7 +9,6 @@
 #pragma once
 
 #include <vector>
-#include <thread>
 #include <memory>
 
 namespace life
