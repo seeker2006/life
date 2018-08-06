@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.12.0)
+project (life)
+file(GLOB SOURCES "*.cpp")
+add_executable(life ${SOURCES})
+SET(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -std=c++11")
