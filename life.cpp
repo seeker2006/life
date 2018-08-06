@@ -10,6 +10,7 @@
 #include <fstream>
 #include <string>
 #include <iostream>
+#include <thread>
 
 namespace life
 {
